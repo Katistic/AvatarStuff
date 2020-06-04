@@ -1,10 +1,10 @@
 # AvatarStuff
  
-~~Show Public Avatar buttons (In avatar menu for currently selected avatar and user detail menu for user)~~
+Show Public Avatar buttons (In avatar menu for currently selected avatar ~~and user detail menu for user~~)
 
 Random Public Avatar button
 
-Avatar Via ID button (In avatars menu)
+~~Avatar Via ID button (In avatars menu)~~
 
 # Old stuff for v1.0.0
 
