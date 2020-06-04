@@ -6,6 +6,8 @@ Random Public Avatar button
 
 Avatar Via ID button (In avatars menu)
 
+# Old stuff for v1.0.0
+
 ## Notice
 
 Current release dll is removed due to plagerism.
