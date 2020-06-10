@@ -4,6 +4,8 @@ Show Public Avatar buttons (In avatar menu for currently selected avatar and use
 
 Random Public Avatar button
 
+Avatar Preview Rotation slider
+
 ~~Avatar Via ID button (In avatars menu)~~
 
 # Old stuff for v1.0.0
