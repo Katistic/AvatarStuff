@@ -1,6 +1,6 @@
 # AvatarStuff
  
-Show Public Avatar buttons (In avatar menu for currently selected avatar ~~and user detail menu for user~~)
+Show Public Avatar buttons (In avatar menu for currently selected avatar and user detail menu for user)
 
 Random Public Avatar button
 
