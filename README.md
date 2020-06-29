@@ -18,7 +18,7 @@ Current release dll is removed due to plagerism.
 
 I'm sorry, most of the code I got was from Hash, who was found to have plagerised, which means in turn I have also.
 
-Thank you plague for his amazing work. Make sure to join her discord [here](http://discord.me/Poppy)
+Thank you plague for her amazing work. Make sure to join her discord [here](http://discord.me/Poppy)
 (Mostly his UI stuff)
 
 Thank you Yaekith for your work as well.
