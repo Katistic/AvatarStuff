@@ -1,25 +1,16 @@
 # AvatarStuff
- 
-Show Public Avatar buttons (In avatar menu for currently selected avatar and user detail menu for user)
-
-Random Public Avatar button
-
-Avatar Preview Rotation slider
-
-~~Avatar Via ID button (In avatars menu)~~
-
-# Old stuff for v1.0.0
 
 ## Notice
 
-Current release dll is removed due to plagerism.
+I'm taking a break from anything VRChat modding related, maybe forever. Although mostly because of burnout, it's also partly because of the bias and the bashing that goes on between developers and developer discords (not to say that everyone does this, there are some really genuine and lovely people).
 
-## Credit
+I will still be updating it every now and then when it breaks (if people bring my attention to it, or submit pull requests to fix it).
 
-I'm sorry, most of the code I got was from Hash, who was found to have plagerised, which means in turn I have also.
+Thank you so much to the people that supported me. It made me happy that I made others happy :)
 
-Thank you plague for his amazing work. Make sure to join his discord [here](http://discord.me/Poppy)
-(Mostly his UI stuff)
+## Features
 
-Thank you Yaekith for your work as well.
-(The ui button used on the main menu was made by him)
+ - Show Public Avatar buttons (In avatar menu for currently selected avatar and user detail menu for user)
+ - Random Public Avatar button
+ - Avatar Preview Rotation slider
+ - ~~Avatar Via ID button (In avatars menu)~~
