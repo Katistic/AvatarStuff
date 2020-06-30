@@ -1,8 +1,0 @@
-<project outputDir="B:\Projects\Coding\C#\AvatarStuff2\Confused" baseDir="B:\Projects\Coding\C#\AvatarStuff2" xmlns="http://confuser.codeplex.com">
-  <module path="build\AvatarStuff.dll">
-    <rule pattern="true" preset="aggressive" inherit="false">
-      <protection id="constants" />
-      <protection id="ref proxy" />
-    </rule>
-  </module>
-</project>
